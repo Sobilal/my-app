@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-app.git/static/css/main.9ce298ac.chunk.css",
+    "main.js": "/my-app.git/static/js/main.08a7df70.chunk.js",
+    "main.js.map": "/my-app.git/static/js/main.08a7df70.chunk.js.map",
+    "runtime-main.js": "/my-app.git/static/js/runtime-main.18ce8e10.js",
+    "runtime-main.js.map": "/my-app.git/static/js/runtime-main.18ce8e10.js.map",
+    "static/js/2.7599c84a.chunk.js": "/my-app.git/static/js/2.7599c84a.chunk.js",
+    "static/js/2.7599c84a.chunk.js.map": "/my-app.git/static/js/2.7599c84a.chunk.js.map",
+    "static/js/3.864f8b3b.chunk.js": "/my-app.git/static/js/3.864f8b3b.chunk.js",
+    "static/js/3.864f8b3b.chunk.js.map": "/my-app.git/static/js/3.864f8b3b.chunk.js.map",
+    "index.html": "/my-app.git/index.html",
+    "static/css/main.9ce298ac.chunk.css.map": "/my-app.git/static/css/main.9ce298ac.chunk.css.map",
+    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/my-app.git/static/js/2.7599c84a.chunk.js.LICENSE.txt",
+    "static/media/login.css": "/my-app.git/static/media/loginimg.8581576a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18ce8e10.js",
+    "static/js/2.7599c84a.chunk.js",
+    "static/css/main.9ce298ac.chunk.css",
+    "static/js/main.08a7df70.chunk.js"
+  ]
+}
